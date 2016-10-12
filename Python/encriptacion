@@ -1,0 +1,4 @@
+import re
+
+re.sub(r"\d","*","masodkpo8ajhds")
+re.sub(r"\d","*","masodkpo8ajhds",2))
