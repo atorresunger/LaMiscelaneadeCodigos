@@ -1,4 +1,4 @@
-import re
-
-re.sub(r"\d","*","masodkpo8ajhds")
-re.sub(r"\d","*","masodkpo8ajhds",5))
+import re 
+ 
+print(re.sub(r"\d","*","55 6575-3388"))
+print(re.sub(r"\d","*","55 6575-3388",5)) 
